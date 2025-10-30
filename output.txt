@@ -1,0 +1,7 @@
+Enqueued 10 into queue.
+Enqueued 20 into queue.
+Enqueued 30 into queue.
+Current Queue: 10 20 30 
+Front element is 10
+Dequeued 10 from queue.
+Current Queue: 20 30 
